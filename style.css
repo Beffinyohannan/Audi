@@ -1,0 +1,103 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+.navbar-brand{
+    margin-left: 4em;
+}
+.navbar{
+    width: 96%;
+    height: 100%;
+}
+
+.navbar-nav{
+    font-size: 18px;
+}
+.searchbar{
+    margin-left: 27em;
+
+}
+.bg-image{
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    min-height: 450px;
+    width: 100%;
+    -webkit-background-size:cover ;
+}
+.carousel-caption{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+.maintxt {
+    background-image: url(/project4/image/1920x600-desktop-e-tron-range-4069-stage.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 900px;
+}
+.textbelow{
+    font-size: 12px;
+    margin-top: 33px;
+}
+.text-center{
+    width: 100;
+}
+.textheadline{
+    font-size: 36px;
+    padding-top: 30px;
+    padding-bottom: 45px;
+    
+    font-family: AudiType-ExtendedNormal,Helvetica,Arial,sans-serif;
+}
+.card{
+    margin: 5px;
+
+}
+.card-group{
+    width: 88%;
+}
+.card-title{
+    font-size: 28px;
+    AudiType-ExtendedNormal,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin-top: 0px;
+}
+.card-text{
+    font-size: 17px;
+    font-weight: 400;
+    font-family:  AudiType-WideNormal,Helvetica,Arial,sans-serif;
+    margin-bottom: 0px;
+}
+.firstbox{
+    /* margin-top: 250px; */
+    width: 100%;
+    /* margin-left: 50px; */
+    /* background-color: gray; */
+
+}
+.smalltext{
+    font-size: 15px;
+}
+.secondbox{
+    width: 100%;
+    /* margin-top: 150px; */
+    
+}
+.btn{
+    width: 200px;
+    height: 40px;
+}
+.textinmiddle{
+    margin-top: 10px;
+}
+.lasttxt{
+    min-height: 400px;
+    font-size: 13px;
+}
+.lasttxt1{
+    font-size: 16px;
+}
